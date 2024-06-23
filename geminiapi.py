@@ -1,6 +1,9 @@
+
+
 #-!pip install google-generativeai
 
 import google.generativeai as genai
+#gemini API key 
 GOOGLE_API_KEY = "AIzaSyCfq9PeM1zIFUyLh8we8OqPkwzmU_-PiGs"
 
 
